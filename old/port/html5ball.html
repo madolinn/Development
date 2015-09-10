@@ -1,0 +1,114 @@
+<html>
+<head><style>
+#k {
+	font-family:Arial;
+	font-size:12px;
+	border:1px solid black;
+	background:#000000;
+}
+#b {
+	font-family:Arial;
+	font-size:12px;
+	border:1px solid black;
+	background:#EEEEEE;
+	padding:1px;
+	padding-left:5px;
+	padding-right:5px;
+}
+#container {
+	border:1px solid black;
+}
+#cvTiles {
+	position:absolute;
+}
+#cvSprites {
+	position:absolute;
+}
+</style></head>
+<body>
+<canvas id="surface" width="600" height="200"></canvas>
+<div style = 'font-family:Trebuchet MS;font-size:10px;border:1px dashed #CCCCCC;width:599px;'>Controls : <span id="k">B</span> <span id="b">W</span> Applies -y velocity, <span id="k">B</span> <span id="b">A</span> Applies -x velocity, <span id="k">B</span> <span id="b">D</span> Applies +x velocity.</div>
+
+  <script type="text/javascript">
+
+    // Version 3 - Basic collision (viewbox), perfectly elastic (no energy loss)
+  
+    var ball = {
+      x: 300,
+      y: 50,
+      r: 10,
+      vx: 0,
+      vy: 0
+    };
+    
+    var canvas = document.getElementById("surface");
+    var ctx = canvas.getContext('2d');
+
+    setInterval(function() {
+      
+      // Clear display
+      ctx.save();
+        ctx.fillStyle = "rgba(0, 0, 0, .1)";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.restore();
+
+      
+      // Update ball (with Physics! =)
+      
+      // 1 - apply velocity to position (vx -> x)
+      ball.x += ball.vx;
+      ball.y += ball.vy;
+
+      // 2 - apply drag/friction to velocity
+      ball.vx *= .99;
+      ball.vy *= .99;
+      
+      // 3 - apply gravity to velocity
+      ball.vy += .25;
+
+      // 4 - check for collisions
+      if (ball.y + ball.r > canvas.height) {
+        ball.y = canvas.height - ball.r;
+        ball.vy = -Math.abs(ball.vy);
+      }
+      if (ball.x - ball.r < 0) {
+	ball.vx = Math.abs(ball.vx);
+      }
+      if (ball.x + ball.r > canvas.width) {
+	ball.vx = -Math.abs(ball.vx);
+      }
+
+      // Draw ball
+      ctx.save();
+        ctx.translate(ball.x, ball.y);
+        ctx.fillStyle = "#fff";
+        ctx.beginPath();
+  			ctx.arc(0, 0, ball.r, 0, Math.PI * 2, true);
+        ctx.closePath();
+        ctx.fill();
+      ctx.restore();
+
+    }, 1000 / 40);
+
+function keyIsDown(evt){
+	switch (evt.keyCode) {
+		case 87:
+			ball.vy -= 1;
+		break;
+
+		case 65:
+			ball.vx -= 1;
+		break;
+
+		case 68:
+			ball.vx += 1;
+		break;
+	}
+}
+
+	window.addEventListener('keydown',keyIsDown,true);
+
+  </script>
+
+</body>
+</html>

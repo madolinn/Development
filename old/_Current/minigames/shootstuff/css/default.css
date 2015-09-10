@@ -1,0 +1,121 @@
+body {
+	color: #CFA591;
+	background: #111111;
+	font: 16px normal Arial;
+	margin: 0px;
+	padding: 0px;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+a:link {
+	color: #63B0B0;
+}
+a:visited {
+	color: #71B3C9;
+}
+a:hover {
+	color: #71C9C9;
+}
+a:active {
+	color: #FFFFFF;
+}
+
+p {
+	display: inline-block;
+	margin: 8px 16px;
+}
+
+div.container {
+	width: 800px;
+	background: #222222;
+	padding: 0px 8px;
+	margin: 0px auto;
+	height: 100%;
+	position: relative;
+	/*border-width: 0px 2px;
+	border-style: solid;
+	border-color: #1A1A1A;*/
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+td {
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #111111;
+	padding: 0px;
+	height: 33px;
+	font: 16px normal Arial;
+}
+th {
+	background: #111111;
+	cursor: default;
+	font: 16px normal Arial;
+	font-variant: small-caps;
+	height: 32px;
+	padding: 0px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 700px;
+	margin: 8px 8px;
+	cursor: none;
+}
+
+div.debug {
+	position: absolute;
+	left: 8px;
+	bottom: 8px;
+}
+p[id^="debug"] {
+	display: block;
+	margin: 8px;
+}
+span#debug5, span#debug6 {
+	cursor: pointer;
+	border: 1px solid #000000;
+	background: #115511;
+	padding: 0px 4px;
+}
+span#debug6 {
+	background: #551111;
+}
+span#debug7, span#debug8, span#debug9 {
+	cursor: text;
+	border: 1px solid #000000;
+	background: #444444;
+	padding: 0px 4px;
+}
+span.value {
+	font: bold 12px Arial;
+	color: #C0C0C0;
+	text-decoration: underline;
+}
+
+/*Preload Images because JQuery sucks at doing it properly in time for canvasses*/ 
+#preloader {
+	width:0px;
+	height:0px;
+	display:inline;
+	background-image: url('../img/ship.png');
+	/* Just add more background-image's here. */
+}

@@ -1,0 +1,73 @@
+<html>
+<head>
+<script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?"></script>
+
+<style>body { background:rgb(30,30,30); }</style>
+
+<script>
+
+var _cv = [];
+
+var ra = (Math.random()*100)+25;
+var rr = 0;
+
+var vs = [];
+
+$(function() {
+
+	$("canvas").each(function() {
+		_cv.push($(this)[0].getContext("2d"));
+		$(this).css("width",$(this).attr("width")).css("height",$(this).attr("height"));
+	});
+	
+	var vmax = ra/2;
+	
+	for (var i = 0; i < vmax; i++) {
+	
+		vs[i] = [];
+		vs[i][0] = (((Math.PI*2)/vmax)*i)-((Math.PI*2)/vmax/6)+(Math.random()*((Math.PI*2)/vmax/3));
+		vs[i][1] = (Math.random()*(ra/5))-(ra/10);
+	
+	}
+	
+	play();
+	
+});
+
+function play() {
+
+	_cv[0].fillStyle = "rgb(0,0,0)"
+	_cv[0].fillRect(0,0,300,300);
+	
+	_cv[0].strokeStyle = "rgb(100,100,100)"
+	_cv[0].lineWidth = 2;
+	_cv[0].beginPath();
+	_cv[0].arc(150,150,ra,0,2*Math.PI);
+	_cv[0].stroke();
+	
+	
+	_cv[0].strokeStyle = "rgb(255,255,255)"
+	_cv[0].beginPath();
+	_cv[0].moveTo(150+(Math.cos(vs[0][0]+rr)*(ra+(vs[0][1]))),150+(Math.sin(vs[0][0]+rr)*(ra+vs[0][1])));
+	
+	for (var i = 0; i < vs.length; i++) {
+		_cv[0].lineTo(150+(Math.cos(vs[i][0]+rr)*(ra+(vs[i][1]))),150+(Math.sin(vs[i][0]+rr)*(ra+vs[i][1])));
+	}
+	_cv[0].lineTo(150+(Math.cos(vs[0][0]+rr)*(ra+(vs[0][1]))),150+(Math.sin(vs[0][0]+rr)*(ra+vs[0][1])));
+	
+	_cv[0].stroke();
+	
+	rr+=.025;
+	
+	setTimeout(function() { play(); }, 50);
+
+}
+
+</script>
+</head>
+<body>
+
+<canvas width = "300" height = "300"></canvas>
+
+</body>
+</html>

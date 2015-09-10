@@ -1,0 +1,102 @@
+turn based
+capacitor is energy reserve
+firing weapons and moving use reserved energy
+each turn your capacitor charges an amount based on ???ship stat/equip modules???
+turn order is dependent on ?agility?
+turn starts at zero inf cycle increment +1
+when turn reaches your ?agility? you can action (move and fire)
+
+example:
+you ?agility? = 15
+enemy1 ?agility? = 16
+enemy2 ?agility? = 20
+turn  |   1   |     2   |   3   |  4   |   5   |
+you   |15     |30       | 45    | 60   | 75    |
+enem1 | 16    |  32     |    48 |    64|   80  |
+enem2 |     20|       40|       | 60   |   80  |  (100)
+
+enem2 only actions 4 times while you and enem1 action 5 times
+when tied person with lowest(highest? 100?-agility?) ?agility? goes first
+if two persons have same ?agility? --- ???higher energy???
+
+weapon examples: (dont know about accuracy or crits. not fond of acc [hate missing])
+proto dart V -
+dmg: 15
+range: 3
+cap cost: 5
+target: single
+low cost low power single target short range. used for cheap small suppresion/quick kills on low healths
+
+accelerated missile -
+dmg: 40
+range: 5
+cap cost: 20
+target: single
+mod/high power mod range single target. slightly range/pow over standard missile at cost of cap
+
+mirv -
+dmg: ??
+range: 6
+cap cost: 30
+target: multiple/spread??
+multiple possiblities for different AOE missiles:
+ vvv
+vvcvv
+vcXcv <-- diminishing dmg spread in confined area
+vvcvv
+ vvv
+
+X X X X <-- multiple spaced targets fixed based off of pointed target
+
+X   X
+       X <-- multi target lock
+  X
+
+weight? EDIT: probably make weight stat into speed/mov stat. just have modules -speed/mov instead of wgt
+ships have base weight. modules have weights. weight determines cap use for movement.
+lightweight modules will generally have less output (dmg/range for weapons. effects amoutns for supports)
+heavy modules be sturdier/heat resistant allow high outputs but at cost of weight/movement
+
+other possible modules:
+supports (+cap +recharge +weapon output[dmg and/or range possibly add targets, crit] +armor +sheild etc)
+sniper/long range high pow high cap cost
+AOEs as discussed
+wide variety of single shots for in-depth team building
+LAZARZ (Dot??? at cost of cap/cycle [not turn! it would con drain until you turn it off during a turn]
+energy syphons (DoT as well? single bursts? both?)
+machine gonorrhea (needs bullets to fire. different bullet types for sheild/armor penetration etc)
+nukes??? dmg all units on the feild friendly and foe EQUALLY! turn countdown after fire? charge before??
+EMPs dmg sheilds only but very efficient
+futuristic weaponry - fission warheads (just a fancy name), [drawing a blank im sure you have neat ideas]
+
+deployables:
+MINES - TEEEMMOOOOOOOOO
+turrets - herpaderpaderp
+blockades thingies - must move around them or kill [lim amount per person?per team? cant get ridiculous.]
+tesla coils :::
+---deployable: limited duration (x cycles) causes increased cap regen to adjacent units FRIEND/FOE alike
+---on battlefield maps: permanent at team spawn points. much much much higher regen than deployables.
+
+SHEILDS HOW DID I FORGET:
+equip proper sheild and support modules to determine sheild health and recharge rate.
+higher recharge rate = more cap drain per turn. less = less. derp.
+
+quests:
+new tab next to cargo/ship/research/[quests]?
+generic !/? above heads
+to keep things simple and easy on server maybe only one quest at a time? have to drop to get another?
+or even do FF:T style (sort of) no random monsters, get xp by doing these "quests" that
+ put you into a battle... which leads to next thought ---> parties
+
+party:
+party leader will control quest activity (based off FF:T style idea)
+party members will be supporting persons on your team. no friendly AI.
+when leader accepts quest, all party members will be asked to enter battle.
+all recieve equal reward from quest, but FF:T xp gain during battle? (based on lvs and dmg output +kills)
+repeatble quests for crappy noobs who fail at everything in life and should eat poop brownies.
+
+AI:
+programmed based on roles.
+support/tank/short range/long range/etc
+aggroed to appropiate effective roles/nearby low healths.
+or just easy peasy kill closest guy b.s. whatever works.

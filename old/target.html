@@ -1,0 +1,33 @@
+<html>
+<head>
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script>
+
+$(function() {
+
+$.ajaxPrefilter( function (options) {
+  if (options.crossDomain && jQuery.support.cors) {
+    var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
+    options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
+    //options.url = "http://cors.corsproxy.io/url=" + options.url;
+  }
+});
+
+	$.ajax({
+		url: 'https://www.codewithtarget.com/api/v1/heros/hero_id87ec9f5d-5d18-447a-b12b-cf50c3993e05/quests/backend/2b',
+		headers: { 'X-Flynn' : 'lives' }
+	}).done(function(e) {
+		console.log(e);
+	});
+
+});
+
+</script>
+
+</head>
+<body>
+
+
+</body>
+</html>

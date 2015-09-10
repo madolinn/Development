@@ -1,0 +1,139 @@
+<script>
+
+$(function() {
+
+	$(document).on("change","input",function() {
+		calc();
+	});
+
+	calc();
+	
+	$("span").click(function() {
+		$("<div />", { html:'<table class = "inputs"><tr><td width = "100">Level</td><td><input class = "dmginput"></td></tr><tr><td>[SP]Attack</td><td><input class = "dmginput"></td></tr><tr><td>[SP]Defense</td><td><input class = "dmginput"></td></tr><tr><td>Base Power</td><td><input class = "dmginput"></td></tr></table><div class = "result"><table><tr><td width = "50">High</td><td class = "dmghigh"></td></tr><tr><td>Low</td><td class = "dmglow"></td></tr></table></div>', class:"group" }).appendTo("#dmgcontainer");
+	});
+	
+});
+
+function calc() {
+
+	for (var i = 0; i < $(".dmginput").length; i+=4) {
+		var lvl = parseInt($(".dmginput").eq(i).val());
+		var atk = parseInt($(".dmginput").eq(i+1).val());
+		var def = parseInt($(".dmginput").eq(i+2).val());
+		var pwr = parseInt($(".dmginput").eq(i+3).val());
+		var dmg = ((((2*lvl)+10)/250)*(atk/def)*pwr)+2;
+		$(".dmghigh").eq(i/4).html(Math.floor(dmg));
+		$(".dmglow").eq(i/4).html(Math.floor(dmg*.85));
+		console.log($(".dmginput").length);
+	}
+
+}
+
+</script>
+<style>
+
+html {
+	min-height:100%;
+}
+
+body {
+	background:linear-gradient(#FFF,#CCC);
+	min-height:100%;
+	padding:0px;
+	margin:0px;
+}
+
+#pikaback {
+	position:fixed;
+	right:0px;
+	bottom:0px;
+	background:url("img/pikachu.svg");
+	width:450px;
+	height:280px;
+}
+
+#dmgwrapper {
+	margin:auto;
+	width:498px;
+	border:1px solid #ccc;
+	border-bottom:0px;
+	border-top:0px;
+	padding:10px;
+}
+
+#dmgbox {
+	background:url("img/dmgform.png");
+	width:498px;
+	height:44px;
+}
+
+.inputs {
+	float:left;
+	font:normal 16px Tahoma;
+	clear:								none;
+}
+
+.result {
+	float:left;
+	height:46px;
+	padding:30px 10px;
+	width:200px;
+	clear:right;
+}
+
+.result > table {
+	font:small-caps bold 16px Tahoma;
+}
+
+.dmghigh, .dmglow {
+	font:normal 16px Tahoma;
+}
+
+.group {
+	border-top:2px solid #ccc;
+	height:106px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.dmgspan {
+	font:small-caps bold 16px Tahoma;
+	color:#888;
+	display:block;
+	margin:auto;
+	text-align:center;
+	width:300px;
+	cursor:pointer;
+	border-top:2px solid #ccc;
+	position:relative;
+	top:-10px;
+}
+
+</style>
+
+<div id = "dmgwrapper">
+
+<div id = "dmgcontainer">
+
+<div id = "dmgbox"></div><br>
+<div class = "group">
+<table class = "inputs">
+
+<tr><td width = "100">Level</td>
+<td><input class = "dmginput"></td></tr>
+<tr><td>[SP]Attack</td>
+<td><input class = "dmginput"></td></tr>
+<tr><td>[SP]Defense</td>
+<td><input class = "dmginput"></td></tr>
+<tr><td>Base Power</td>
+<td><input class = "dmginput"></td>
+</tr>
+
+</table>
+<div class = "result"><table><tr><td width = "50">High</td><td class = "dmghigh"></td></tr><tr><td>Low</td><td class = "dmglow"></td></tr></table></div>
+</div>
+</div>
+<div style = 'margin-top:10px;'><span class = "dmgspan">Another Calculator</span></div>
+</div>
+
+<div id = "pikaback"></div>

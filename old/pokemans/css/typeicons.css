@@ -1,0 +1,113 @@
+.type-container {
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	width:114px;
+	text-align:right;
+	padding:3px 0 2px 0;
+}
+
+.type-icon {
+	border: 1px solid;
+    display: inline-block;
+    line-height: 1;
+	margin: 0 1px 0 0;
+    padding: 3px 0;
+    width: 54px;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-size: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #333333;
+    text-transform: uppercase;
+}
+
+.type-normal {
+    background: linear-gradient(#A8A878, #8A8A59) repeat scroll 0 0 #8A8A59;
+    border-color: #79794E;
+}
+
+.type-fire {
+    background: linear-gradient(#F08030, #DD6610) repeat scroll 0 0 #F08030;
+    border-color: #B4530D;
+}
+
+.type-water {
+    background: linear-gradient(#6890F0, #386CEB) repeat scroll 0 0 #6890F0;
+    border-color: #1753E3;
+}
+
+.type-electric {
+    background: linear-gradient(#F8D030, #F0C108) repeat scroll 0 0 #F8D030;
+    border-color: #C19B07;
+}
+
+.type-grass {
+    background: linear-gradient(#78C850, #5CA935) repeat scroll 0 0 #78C850;
+    border-color: #4A892B;
+}
+
+.type-ice {
+    background: linear-gradient(#98D8D8, #69C6C6) repeat scroll 0 0 #98D8D8;
+    border-color: #45B6B6;
+}
+
+.type-fighting {
+    background: linear-gradient(#C03028, #9D2721) repeat scroll 0 0 #C03028;
+    border-color: #82211B;
+}
+
+
+.type-poison {
+    background: linear-gradient(#A040A0, #803380) repeat scroll 0 0 #A040A0;
+    border-color: #662966;
+}
+
+.type-ground {
+    background: linear-gradient(#E0C068, #D4A82F) repeat scroll 0 0 #E0C068;
+    border-color: #AA8623;
+}
+
+.type-flying {
+    background: linear-gradient(#A890F0, #9180C4) repeat scroll 0 0 #A890F0;
+    border-color: #7762B6;
+}
+
+.type-psychic {
+    background: linear-gradient(#F85888, #F61C5D) repeat scroll 0 0 #F85888;
+    border-color: #D60945;
+}
+
+.type-bug {
+    background: linear-gradient(#A8B820, #8D9A1B) repeat scroll 0 0 #A8B820;
+    border-color: #616B13;
+}
+
+.type-rock {
+    background: linear-gradient(#B8A038, #93802D) repeat scroll 0 0 #B8A038;
+    border-color: #746523;
+}
+
+.type-ghost {
+    background: linear-gradient(#705898, #554374) repeat scroll 0 0 #705898;
+    border-color: #413359;
+}
+
+.type-dragon {
+    background: linear-gradient(#7038F8, #4C08EF) repeat scroll 0 0 #7038F8;
+    border-color: #3D07C0;
+}
+
+.type-dark {
+    background: linear-gradient(#705848, #513F34) repeat scroll 0 0 #705848;
+    border-color: #362A23;
+}
+
+.type-steel {
+    background: linear-gradient(#B8B8D0, #9797BA) repeat scroll 0 0 #B8B8D0;
+    border-color: #7A7AA7;
+}
+
+.type-undefined {
+	display: none;
+}

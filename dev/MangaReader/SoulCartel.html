@@ -1,0 +1,71 @@
+<html>
+<head>
+
+<style>
+body {
+	background:black;
+	padding-top:24px;
+}
+
+.img {
+	margin:auto;
+	width:690px;
+	color:#AA5555;
+	text-align:center;
+}
+
+input {
+	background:black;
+	color:#888888;
+	border:1px solid #888888;
+	text-align:center;
+}
+
+button {
+	background:black;
+	color:#888888;
+	border:1px solid #888888;
+	border-left:none;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+#nav {
+	width:100%;
+	height:24px;
+	background:black;
+	position:fixed;
+	top:0px;
+	left:0px;
+	padding:5px;
+}
+
+#divProgress {
+	background:url("/dev/MangaReader/38-1.gif");
+	width:16px;
+	height:11px;
+	display:none;
+	margin-left:5px;
+}
+
+#divHideManga {
+	background:#888888;
+	width:5px;
+	height:23px;
+	display:inline-block;
+	font-family:Tahoma;
+	padding-right:1px;
+}
+</style>
+
+<script src='http://localhost/dev/jquery/corejs.js' type = "text/javascript" main = 'main'></script>
+</head>
+<body>
+
+<div id = "nav"><input id = "inputManga" value = "Annarasumanara"></input><div id = "divHideManga"> | </div><input id = "inputChapter" value = "Chapter Number"></input><button id = "buttonSubmit">Go!</button><div id = "divProgress"></div></div>
+
+
+</body>
+</html>

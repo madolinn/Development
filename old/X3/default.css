@@ -1,0 +1,102 @@
+body {
+	color: #CFA591;
+	background: #111111;
+	font: 16px normal Arial;
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #63B0B0;
+}
+a:visited {
+	color: #71B3C9;
+}
+a:hover {
+	color: #71C9C9;
+}
+a:active {
+	color: #FFFFFF;
+}
+
+div.container {
+	width: 1240px;
+	background: #222222;
+	padding: 35px 0px;
+	margin: 0px auto;
+	/*border-width: 0px 2px;
+	border-style: solid;
+	border-color: #1A1A1A;*/
+}
+
+table.list {
+	width: 100%;
+	border-collapse: collapse;
+}
+td {
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #111111;
+	padding: 0px 8px;
+	height: 33px;
+}
+td.booklink {
+	width: 50px;
+	text-align: center;
+}
+th {
+	background: #111111;
+	cursor: default;
+	font: 16px normal Arial;
+	height: 35px;
+}
+th.header {
+	cursor: pointer;
+}
+th.headerSort {
+	padding: 0px 7px 0px 8px;
+	overflow: hidden;
+	font: 8px normal Arial;
+}
+thead.float-top {
+	position: fixed;
+	top: 0px;
+}
+
+th.headerSortDown {
+	background: -webkit-linear-gradient(180deg, #111111, #222222); /* For Safari */
+	background: -o-linear-gradient(180deg, #111111, #222222); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(180deg, #111111, #222222); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(180deg, #111111, #222222); /* Standard syntax */
+	border-left: 1px solid #222222;
+	border-right: 1px solid #222222;
+} 
+th.headerSortUp {
+	background: -webkit-linear-gradient(0deg, #111111, #222222); /* For Safari */
+	background: -o-linear-gradient(0deg, #111111, #222222); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(0deg, #111111, #222222); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(0deg, #111111, #222222); /* Standard syntax */
+	border-left: 1px solid #222222;
+	border-right: 1px solid #222222;
+}
+/*th.header>div.arrow {
+	width: 16px;
+	height: 16px;
+	background: url('img/arrow_none.png') no-repeat;
+	margin: 2px 8px;
+}
+th.headerSortDown>div.arrow {
+	background: url('img/arrow_down.png') no-repeat;
+}
+th.headerSortUp>div.arrow {
+	background: url('img/arrow_up.png') no-repeat;
+}*/
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}

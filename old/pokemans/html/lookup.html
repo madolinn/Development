@@ -1,0 +1,36 @@
+<script>
+$('#pokeSearch').on('keypress',function(e) {
+	switch(e.which) {
+		case 13: //Enter
+			var text = $(this).val().toLowerCase();
+			for (var i = 0; i < pokemon.length; i++) {
+				if (pokemon[i][NAME].toLowerCase() == text) {
+					lookup(i);
+					i += pokemon.length;
+				};
+			};
+		default:
+			//console.log('keypress: ' + e.which);
+	};
+});
+
+function lookup(id) {
+	var str = 'ID: ' + pokemon[id][ID] + '<br>'
+		+ '<img src="' + pokemon[id][IMG] + '"></img><br>'
+		+ pokemon[id][NAME] + '<br>'
+		+ pokemon[id][TYPE][0] + '\/' + pokemon[id][TYPE][1] + '<br>'
+		+ 'HP: ' + pokemon[id][STAT.HP] + '<br>'
+		+ 'Attack: ' + pokemon[id][STAT.ATK] + '<br>'
+		+ 'Defence: ' + pokemon[id][STAT.DEF] + '<br>'
+		+ 'Sp. Attack: ' + pokemon[id][STAT.SPATK] + '<br>'
+		+ 'Sp. Defence: ' + pokemon[id][STAT.SPDEF] + '<br>'
+		+ 'Speed: ' + pokemon[id][STAT.SPD] + '<br>'
+		+ 'Total: ' + pokemon[id][STAT.TOTAL] + ' | '
+		+ 'Average: ' + pokemon[id][STAT.AVERAGE] + ' | '
+		+ 'Base XP: ' + pokemon[id][STAT.XP];		
+	$('#lookup').html(str);
+};
+
+</script>
+
+<div id='lookup'>Use the search box genius.</div>

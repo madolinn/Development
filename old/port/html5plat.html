@@ -1,0 +1,177 @@
+<html>
+<head>
+<style>
+#container {
+	border:1px solid black;
+}
+#cvTiles {
+	position:absolute;
+}
+#cvSprites {
+	position:absolute;
+}
+</style>
+</head>
+<body>
+<div id = "container">
+<canvas id = "cvTiles"></canvas>
+<canvas id = "cvSprites"></canvas>
+</div>
+
+<script type = "text/javascript">
+
+var tiles = [
+	[0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0],
+	[0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0],
+	[0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0],
+	[0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0],
+	[0,1,1,1,0,1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0],
+	[0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,0],
+	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+];
+
+var player = {
+	x: 8,
+	y: 8,
+	vx: 0,
+	vy: 0
+}
+
+var mapHeight = 0;
+var mapWidth = 0;
+
+function init() {
+	mapHeight = tiles.length;
+	mapWidth = tiles[0].length;
+
+	KeyBinds();
+	drawScreen();
+
+	gameLoop();
+}
+
+function KeyBinds() {
+	document.onkeydown = function(e) {
+//http://www.cambiaresearch.com/c4/702b8cd1-e5b0-42e6-83ac-25f0306e3e25/Javascript-Char-Codes-Key-Codes.aspx
+		e = e || window.event;
+
+		switch (e.keyCode) {
+			case 87:
+				if (Math.floor(player.x/8) == player.x/8) {
+					if (tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)]==0) { player.vy = -3; }
+				} else {
+					if (tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)]==0 ||
+						tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)+1]==0) { player.vy = -3; }
+				}
+			break;
+			case 65:
+				player.vx = -1;
+			break;
+			case 68:
+				player.vx = 1;
+			break;
+		}
+	}
+	document.onkeyup = function(e) {
+		e = e || window.event;
+
+		switch (e.keyCode) {
+			case 65:
+			case 68:
+				player.vx = 0;
+			break;
+		}
+	}
+}
+
+function gameLoop() {
+	step();
+	updateScreen();
+
+	setTimeout(gameLoop,1000/30);
+}
+
+function step() {
+
+	if (player.vx) {
+		if (Math.floor(player.y/8) == player.y/8) {
+			if (tiles[player.y/8][Math.floor((player.x/8)+((player.vx/Math.abs(player.vx))/8)+.875*(player.vx>0))]==1) { player.x += player.vx; }
+		} else {
+			if (tiles[Math.floor(player.y/8)][Math.floor((player.x/8)+((player.vx/Math.abs(player.vx))/8)+.875*(player.vx>0))]==1 &&
+				tiles[Math.floor(player.y/8)+1][Math.floor((player.x/8)+((player.vx/Math.abs(player.vx))/8)+.875*(player.vx>0))]==1) { player.x += player.vx; }
+		}
+	}
+	if (Math.floor(player.x/8) == player.x/8) {
+		if (tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)]==1) { player.vy += .5; }
+	} else {
+		if (tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)]==1 &&
+			tiles[Math.floor(player.y/8)+1][Math.floor(player.x/8)+1]==1) { player.vy += .5; }
+	}
+	if (player.vy) {
+		for (var c = 0; c < Math.abs(player.vy); c += .5) {
+			if (Math.floor(player.x/8) == player.x/8) {
+				if (tiles[Math.floor((player.y/8)+(player.vy/Math.abs(player.vy))+(player.vy<0))][Math.floor(player.x/8)]==1) { player.y += .5*(player.vy/Math.abs(player.vy)); } else { player.vy = 0; }
+			} else {
+				if (tiles[Math.floor((player.y/8)+(player.vy/Math.abs(player.vy))+(player.vy<0))][Math.floor(player.x/8)]==1 &&
+					tiles[Math.floor((player.y/8)+(player.vy/Math.abs(player.vy))+(player.vy<0))][Math.floor(player.x/8)+1]==1) { player.y += .5*(player.vy/Math.abs(player.vy)); } else { player.vy = 0; }
+			}
+			//if (tiles[Math.floor(player.y/8)+(player.vy/Math.abs(player.vy))][Math.floor(player.x/8)]==1) {
+			//	player.y += .5*(player.vy/Math.abs(player.vy));
+			//} else {
+			//	player.vy = 0;
+			//}
+				
+		}
+	}
+}
+
+function updateScreen() {
+	var _tiles = document.getElementById("cvTiles");
+ 	var _sprites = document.getElementById("cvSprites");
+
+	var spriteCtx = _sprites.getContext('2d');
+	spriteCtx.clearRect(0,0,_tiles.width,_tiles.height);
+
+	spriteCtx.fillStyle = "rgb(256,256,256)";
+	spriteCtx.fillRect(player.x, player.y, 8, 8);
+}
+
+function drawScreen() {
+	var _tiles = document.getElementById("cvTiles");
+	var _ctn = document.getElementById("container");
+ 	var _sprites = document.getElementById("cvSprites");
+
+	_tiles.width = mapWidth * 8;
+	_tiles.height = mapHeight * 8;
+	_sprites.width = mapWidth * 8;
+	_sprites.height = mapHeight * 8;
+
+	var w = (mapWidth * 8) + "px"
+	var h = (mapHeight * 8) + "px"
+	_tiles.style.width = _sprites.style.width = _ctn.style.width = w;
+	_tiles.style.height = _sprites.style.height = _ctn.style.height = h;
+
+	var ctx = _tiles.getContext('2d');
+
+	ctx.fillStyle = "rgb(256,256,256)";
+	ctx.fillRect(0,0, _tiles.height, _tiles.width);
+
+	for (var y = 0; y < mapHeight; y++) {
+		for (var x = 0; x < mapWidth; x++) {
+			var occupied = tiles[y][x];
+
+			if (occupied > 0) {
+				ctx.fillStyle = "rgb(0,0,0)";
+				ctx.fillRect(x * 8, y * 8, 8, 8);
+			}
+		}
+	}
+	updateScreen();
+}
+
+
+setTimeout(init, 1);
+</script>
+
+</body>
+</html>

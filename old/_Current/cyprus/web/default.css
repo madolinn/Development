@@ -1,0 +1,83 @@
+body {
+	background:#000;
+}
+
+div { background:#000; }
+
+#wrapper {
+	width:802px;
+	margin:auto;
+	position:relative;
+}
+
+#lat {
+	float:right;
+	color:#559955;
+	border:1px solid #777;
+	border-top:0px;
+	width:40px;
+	font-size:10px;
+	font-family:Tahoma;
+	text-align:center;
+}
+
+canvas {
+
+	width:800px;
+	height:600px;
+	border:1px solid #777;
+	margin:auto;
+}
+
+input {
+	border:1px solid #999;
+	border-left:2px solid #999;
+	background:none;
+	margin:5px;
+	color:#FFF;
+}
+
+#gamePrompt {
+	position:absolute;
+	color:white;
+	min-width:200px;
+	max-width:300px;
+	min-height:100px;
+	font-family:Tahoma;
+	font-size:11px;
+	padding:0px;
+	display:none;
+}
+
+#gamePrompt > .header {
+	border:1px solid #777;
+	padding:2px;
+	color:#777;
+	position:relative;
+	left:-10px;
+	top:1px;
+}
+
+#gamePrompt > .content {
+	border:1px solid #777;
+}
+
+#gamePrompt > .content > .text {
+	padding:5px;
+}
+
+#gamePrompt > .content > input {
+	display:block;
+	margin:5px auto;
+}
+
+#gamePromptInput {
+	width:190px;
+}
+
+#debug {
+	width:500px;
+	height:200px;
+	color:#555;
+	overflow:auto;
+} #debug > p { margin:0; }

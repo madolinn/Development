@@ -1,0 +1,71 @@
+body {
+	color: #CFA591;
+	background: #111111;
+	font-size: 12px;
+	font-family: Lucida Console;
+	margin: 0px;
+	padding: 0px;
+}
+h1, h2, b {
+	font-size: 16px;
+	font-weight: normal;
+	font-family: Lucida Console;
+}
+td {
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Lucida Console;
+}
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+a:link {
+	color: #63B0B0;
+}
+a:visited {
+	color: #71B3C9;
+}
+a:hover {
+	color: #71C9C9;
+}
+a:active {
+	color: #FFFFFF;
+}
+
+#container {
+	width: 1280px;
+	background: #222222;
+	padding: 0px 8px;
+	margin: 0px auto;
+	height: 100%;
+	position: relative;
+	/*border-width: 0px 2px;
+	border-style: solid;
+	border-color: #1A1A1A;*/
+}
+#canvasContainer {
+	position: relative;
+}
+#controlsContainer {
+	position: relative;
+	width: 440px;
+}
+input[type=text], input[type=range] {
+	width: 64px;
+}
+
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 600px;
+	margin: 8px 8px;
+}

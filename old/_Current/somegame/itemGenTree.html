@@ -1,0 +1,125 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Tree</title>
+<style type="text/css">
+body {
+	background: #000;
+	color: #888888;
+	font: normal 14px Lucida Console, monospace;
+	line-height: 100%;
+}
+div#container {
+	background: #252525;
+	display: inline;
+	width: 800px;
+	position: absolute;
+	top: 0px;
+	left: calc(50% - 400px);
+	padding: 8px;
+	border-color: #252525;
+	border-width: 0px 2px;
+	border-style: solid;
+	border-color: #151515;
+}
+li {
+	list-style-type: disc;
+}
+li:hover {
+	color: #D1691D;
+	cursor:pointer;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+$(function(){
+	$( "li" ).each(function() {
+		if ($(this).next().is("ul")) {
+			$(this).click(function() {
+				var speed = $(this).next().height() * 5;
+				$(this).next().slideToggle( {duration: speed, queue: true, complete: function(){}});
+			});
+		}
+	});
+});
+</script>
+</head><body><div id='container'>
+<ul>
+	<ul>
+	<li>Weapon</li>
+		<ul>
+		<li>Melee</li>
+			<ul>
+			<li>2H</li>
+				<ul>
+				<li>Greatsword</li>
+					<ul>
+					<li>Pommel (Set gems for effects?)</li>
+					<li>Grip (Some sort of control effect)</li>
+					<li>Cross-guard (Defensive effect such as blocking/countering)</li>
+					<li>Fuller (Weight reduction and stiffer blade)</li>
+					<li>Edge (Sharpness)</li>
+					<li>Point (Piercy poke)</li>
+					</ul>
+				<li>Hammer</li>
+					<ul>
+					<li>Pommel</li>
+					<li>Grip</li>
+					<li>Shaft</li>
+					<li>Head</li>
+					<li>Contact Area</li>
+					</ul>
+				<li>Spear</li>
+					<ul>
+					<li>Shaft (Weight/range)</li>
+					<li>Head (Weight)</li>
+					<li>Edge</li>
+					<li>Point</li>
+					<li>Gem</li>
+					</ul>
+				<li>Axe</li>
+					<ul>
+					<li>Pommel</li>
+					<li>Grip</li>
+					<li>Shaft</li>
+					<li>Head (Weight)</li>
+					<li>Edge</li>
+					</ul>
+				</ul>
+			<li>1H</li>
+				<ul>
+				<li>Dagger</li>
+				<li>Sword</li>
+				<li>Mace</li>
+				<li>Axe</li>
+				<li>Shield</li>
+				</ul>
+			</ul>
+		<li>Range</li>
+			<ul>
+			<li>1H</li>
+				<ul>
+				<li>Tome</li>
+				<li>Throwing</li>
+				</ul>
+			<li>2H</li>
+				<ul>
+				<li>Bow</li>
+				<li>Staff</li>
+				</ul>
+			</ul>
+		</ul>
+	<li>Armor</li>
+		<ul>
+		<li>Head</li>
+		<li>Chest</li>
+		<li>Hands</li>
+		<li>Legs</li>
+		<li>Toes</li>
+		</ul>
+	<li>Trinket</li>
+		<ul>
+		<li>Earring</li>
+		<li>Necklace</li>
+		<li>Ring</li>
+		</ul>
+	</ul>
+</ul>
+</div></body></html>

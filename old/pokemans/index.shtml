@@ -1,0 +1,117 @@
+<html><head><title>Pokestuff</title>
+<link rel='stylesheet' type='text/css' href='css/default.css'>
+<link rel='stylesheet' type='text/css' href='css/typeicons.css'>
+<script src='../jquery/jquery.min.js'></script>
+<script type='text/javascript' src='../jqts/jquery.tablesorter.js'></script>
+<script src='js/pokemans.js'></script>
+<script src='js/lookup.js'></script>
+<script>
+
+$(function() {
+	$('#wrapper').css('width', $(document).width() - $('.sidebar').width() - 21);
+	$(document).on('focus','input',function() {
+		$(this).select();
+	});
+	
+	/*$(document).on('change','input',function() {
+		
+	});*/
+	
+	$('.link').on('click',function() {
+		$('.link').each(function() { $(this).removeClass('selected'); });
+		$('.content:visible').toggle();
+		var id = '#' + $(this).html().toLowerCase().replace(" ","");
+		$(id).toggle();
+		$(this).addClass('selected');
+	});
+	
+	$('#pokeSearch').on("keyup",function(e) {
+		if (e.which == 13) { checkLookup(); };
+		$('#suggest').css('display','initial');
+		var text = $(this).val();
+		var limit = 8;
+		$('#suggest').html('');
+		if ( text == '' ) {	return;	};
+		for (var i = 0; i < pokemon.length; i++) {
+			if (pokemon[i][NAME].substr(0,text.length).toLowerCase() == text.toLowerCase()) {
+				var entry = $('<div/>', { class: "searchEntry", html: "<span>"+pokemon[i][NAME]+"</span>"});
+				
+				$('<div />', { class: "imgContainer", html: "<img src='"+pokemon[i][IMG]+"'>" }).appendTo(entry);
+				
+				entry.prependTo('#suggest');
+				
+				limit--;
+			};
+			if (limit == 0) { break; };
+		};
+	});
+	
+	$('.searchContainer').on('click','.searchEntry',function() {
+		$('#pokeSearch').val($(this).children('span').html());
+		$('#suggest').html('');
+		$('#pokeSearch').select();
+	});
+	
+	$(document).on('click',function(e) {
+		if (e.target.className !== 'imgContainer' && e.target.id !== 'pokeSearch') {
+			$('#suggest').css('display','none');
+		}
+	})
+	$('#pokeSearch').on('focus',function() {
+		$('#pokeSearch').trigger('keyup');
+		$('#suggest').css('display','initial');
+	});
+	/*$('div.searchContainer').on('mouseout',function() {
+		$('#suggest').css('display','none');
+	});
+	
+	$('div.searchContainer').on('mouseover',function() {
+		$('#suggest').css('display','inline');
+	});*/
+	
+});
+
+</script>
+</head><body>
+
+<div class='sidebar left'>
+	<div class='linkContainer'>
+		<div class='link selected'>Home</div>
+		<div class='link'>Stage Chart</div>
+		<div class='link'>DMG Calculator</div>
+		<div class='link'>Pickup Chart</div>
+		<div class='link'>Type Chart</div>
+		<div class='link'>EV List</div>
+	</div>
+	
+	<!-- Lookup -->
+	<div id='lookup'>Use the search box genius.</div>
+	
+	<!-- SearchList -->
+	<div class='searchContainer'>
+		<div id='suggest'></div>
+		<input type='text' id='pokeSearch'>
+	</div>
+</div>
+<div id='wrapper'>
+	<!--#config errmsg="404" -->
+	<div class='content selected' id='home'>
+		<!--#include virtual="html/home.html" -->
+	</div>
+	<div class='content' id='stagechart'>
+		<!--#include virtual="html/stagechart.html" -->
+	</div>
+	<div class='content' id='dmgcalculator'>
+		<!--#include virtual="html/dmgcalc.html" -->
+	</div>
+	<div class='content' id='pickupchart'>
+		<!--#include virtual="html/pickup.html" -->
+	</div>
+	<div class='content' id='typechart'>
+		<!--#include virtual="html/typechart.html" -->
+	</div>
+	<div class='content' id='evlist'>
+		<!--#include virtual="html/evlist.html" -->
+	</div>
+</div>	
+</body></html>

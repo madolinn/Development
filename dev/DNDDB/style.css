@@ -1,0 +1,90 @@
+body {
+
+	background:linear-gradient(#222222, #333333);
+	height:100%;
+	margin:0px;
+
+}
+
+#wrapper {
+
+	margin:auto;
+	width:450px;
+	border:2px solid black;
+	border-width:0px 2px 0px 2px;
+	height:100%;
+	background:#444444;
+
+}
+
+#login {
+	
+	display:none;
+	margin:auto;
+	height:100px;
+	width:300px;
+	text-align:center;
+	position:relative;
+	top:40px;
+	background:#999999;
+	font-family:Tahoma;
+	font-size:14px;
+	
+}
+
+#login_motd {
+
+	height:75px;
+
+}
+
+#login_room {
+
+	text-align:center;
+	float:middle;
+	height:20px;
+
+}
+
+#login_submit {
+
+	float:middle;
+	border:0px;
+
+}
+
+#room {
+
+	display:none;
+	height:100%;
+	width:450px;
+	background:#888888;
+	position:absolute;
+	top:0px;
+
+}
+
+#room_header {
+
+	height:104px;
+	width:450px;
+	border-bottom:2px solid black;
+
+}
+
+#room_tab_home {
+	background:url('home.png');
+}
+
+#room_tab_bestiary {
+	background:url('bestiary.png');
+}
+
+.room_tab {
+
+	float:left;
+	height:100px;
+	width:100px;
+	border:2px solid #555555;
+
+}

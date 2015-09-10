@@ -1,0 +1,36 @@
+body {
+	background:#000;
+}
+
+#pad {
+	width:2px;
+	height:200px;
+}
+
+#wrapper {
+	margin:auto;
+	width:288px;
+	height:288px;
+	border:1px solid #ccc;
+	position:relative;
+}
+
+canvas {
+	position:absolute;
+	width:288px;
+	height:288px;
+}
+
+#info {
+
+	margin:auto;
+	width:288px;
+	border:1px solid #ccc;
+	border-top:0px;
+	font-size:12px;
+	font-family:Monospace;
+	color:#ccc;
+	text-align:center;
+	font-weight:bold;
+
+}

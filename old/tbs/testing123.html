@@ -1,0 +1,45 @@
+<html>
+<head>
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+
+<style>
+div {
+	border:1px solid black;
+	width:10px;
+	height:10px;
+	position:absolute;
+}
+</style>
+</head>
+<body>
+
+<script>
+
+var map;
+
+var p = $.ajax("resources/maps/9.map").success(function(){
+
+map = p.responseText
+map = map.split("|");
+for (var i = 0; i < map.length; i++) { map[i] = map[i].split(",");
+}});
+
+setTimeout(go,1000);
+
+function go() {
+
+alert(map[0].length);
+
+for (var y = 0; y < map[0].length; y++ ) {
+for (var x = 0; x < y+1; x++) { 
+
+$("body").append("<div id = '"+(y)+"c"+(y-x)+"'></div>");
+
+$("#"+(y)+"c"+(y-x)).css("left",((20-y)*20)+(x*20)+(y*10))
+		.css("top",(y*20));
+}}
+
+}
+
+</script>

@@ -1,0 +1,41 @@
+body {
+	background:#000;
+}
+
+.header {
+	width:824px;
+	height:20px;
+	border:1px solid #333;
+	background:linear-gradient(#333,#222);
+	box-shadow:inset 0 0 2px 0px #000;
+	margin:auto;
+	cursor:pointer;
+}
+
+.champname {
+	color:#41a88e;
+	font-family:Arial;
+	font-size:12px;
+	line-height:20px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-left:10px;
+	background:rgba(0,0,0,.4);
+}
+
+.champcon {
+	margin:auto;
+	width:814px;
+	background:#444;
+	border:1px solid #333;
+}
+
+.first {
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+
+.last {
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}

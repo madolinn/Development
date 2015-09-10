@@ -1,0 +1,1192 @@
+===============================================================================
+Nuvema Town
+
+Pokémon        Gift
+¯¯¯¯¯¯¯        ¯¯¯¯
+Snivy          Starter choice
+Tepig	       Starter choice
+Oshawott       Starter choice
+===============================================================================
+Route 1
+
+Pokémon        Grass   Shake*  Double**Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Patrat         50%     ---     ---     ---     ---     ---     ---     ---
+Lillipup       50%     ---     ---     ---     ---     ---     ---     ---
+Audino         ---     100%    ---     ---     ---     ---     ---     ---
+Herdier        ---     ---     39%     ---     ---     ---     ---     ---
+Watchog        ---     ---     36%     ---     ---     ---     ---     ---
+Scraggy        ---     ---     25%     ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    95%     35%     ---
+Feebas         ---     ---     ---     ---     ---     5%      60%     ---
+Milotic        ---     ---     ---     ---     ---     ---     5%      ---
+Farfetch'd     ---     ---     ---     ---     ---     ---     ---     40%
+
+* Shaking Grass doesn't appear until the Trio Badge is obtained.
+** Double Grass is inaccessible without Surf.
+===============================================================================
+Accumula Town
+
+No Pokémon are found here.
+===============================================================================
+Route 2
+
+Pokémon        Grass   Shake*  Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Patrat         40%     ---     ---
+Lillipup       40%     ---     ---
+Purrloin       20%     ---     ---
+Audino         ---     100%    ---
+Wynaut         ---     ---     40%
+
+* Shaking Grass doesn't appear until the Trio Badge is obtained.
+===============================================================================
+Striaton City
+
+No Pokémon are found here.
+===============================================================================
+Dreamyard (Outside)
+
+Pokémon        Grass   Shake   Double   Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯
+Pansage        ---     ---     ---     Given if Tepig was chosen as starter
+Pansear        ---     ---     ---     Given if Oshawott was chosen as starter
+Panpour        ---     ---     ---     Given if Snivy was chosen as starter
+Patrat         40%     ---     ---     ---
+Purrloin       40%     ---     ---     ---
+Munna          20%     ---     10%     ---
+Audino         ---     95%     ---     ---
+Musharna       ---     5%      ---      ---
+Watchog        ---     ---     20%     ---
+Liepard        ---     ---     20%     ---
+Raticate       ---     ---     10%     ---
+Venomoth       ---     ---     10%     ---
+Ledian         ---     ---     10%     ---
+Ariados        ---     ---     10%     ---
+Kricketune     ---     ---     10%     ---
+
+* Double Grass is inaccessible until the post-game.
+(The grass in this area is inaccessible without Cut.)
+===============================================================================
+Route 3
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Pidove         40%     40%     ---     ---     ---     ---     ---     ---
+Patrat         20%     20%     ---     ---     ---     ---     ---     ---
+Blitzle        20%     20%     ---     ---     ---     ---     ---     ---
+Lillipup       10%     10%     ---     ---     ---     ---     ---     ---
+Purrloin       10%     10%     ---     ---     ---     ---     ---     ---
+Audino         ---     ---     100%    ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    30%     30%     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Volbeat    (W) ---     ---     ---     ---     ---     ---     ---     40%
+Illumise   (B) ---     ---     ---     ---     ---     ---     ---     40%
+===============================================================================
+Wellspring Cave (Floor 1 and Basement)
+
+Pokémon        Ground  Swirl   Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Roggenrola     50%     ---     ---     ---     ---     ---
+Woobat         50%     ---     ---     ---     ---     ---
+Drilbur        ---     100%    ---     ---     ---     ---
+Basculin       ---     ---     100%    100%    30%     30%
+Poliwag        ---     ---     ---     ---     65%     ---
+Poliwhirl      ---     ---     ---     ---     5%      65%
+Poliwrath      ---     ---     ---     ---     ---     5%
+
+(Basement area is inaccessible without Surf. The Pokémon found there are
+identical to the first floor, though.)
+===============================================================================
+Nacrene City
+
+Pokémon        Gift
+¯¯¯¯¯¯¯        ¯¯¯¯
+Cottonee   (W) Trade with Lass Dye for Petilil
+Petilil    (B) Trade with Lass Dye for Cottonee
+Tirtouga       Revive Cover Fossil (choice in Relic Castle B1)
+Archen         Revive Plume Fossil (choice in Relic Castle B1)
+Omanyte        Revive Helix Fossil (random gift in Twist Mountain B1)
+Kabuto         Revive Dome Fossil (random gift in Twist Mountain B1)
+Aerodactyl     Revive Old Amber (random gift in Twist Mountain B1)
+Lileep         Revive Root Fossil (random gift in Twist Mountain B1)
+Anorith        Revive Claw Fossil (random gift in Twist Mountain B1)
+Cranidos       Revive Skull Fossil (random gift in Twist Mountain B1)
+Shieldon       Revive Armor Fossil (random gift in Twist Mountain B1)
+===============================================================================
+Pinwheel Forest (Outside)
+
+Pokémon        Grass   Double  Shake
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tympole        40%     40%     ---
+Pidove         30%     30%     ---
+Timburr        20%     20%     ---
+Throh      (W) 10%     10%     ---
+Sawk       (B) 10%     10%     ---
+Audino         ---     ---     95%
+Throh      (B) ---     ---     5%
+Sawk       (W) ---     ---     5%
+-------------------------------------------------------------------------------
+Pinwheel Forest (Inside)
+
+Pokémon        Grass   Shake   Double* Surf    Whirl   Fish    Whirl   Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯
+Sewaddle       35%     ---     ---     ---     ---     ---     ---     ---
+Cottonee   (B) 35%     ---     35%     ---     ---     ---     ---     ---
+Petilil    (W) 35%     ---     35%     ---     ---     ---     ---     ---
+Pidove         15%     ---     ---     ---     ---     ---     ---     ---
+Venipede       15%     ---     ---     ---     ---     ---     ---     ---
+Audino         ---     65%     ---     ---     ---     ---     ---     ---
+Pansage        ---     10%     ---     ---     ---     ---     ---     ---
+Pansear        ---     10%     ---     ---     ---     ---     ---     ---
+Panpour        ---     10%     ---     ---     ---     ---     ---     ---
+Whimsicott (B) ---     5%      ---     ---     ---     ---     ---     ---
+Lilligant  (W) ---     5%      ---     ---     ---     ---     ---     ---
+Swadloon       ---     ---     35%     ---     ---     ---     ---     ---
+Tranquill      ---     ---     15%     ---     ---     ---     ---     ---
+Whirlipede     ---     ---     15%     ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    30%     30%     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Virizion       ---     ---     ---     ---     ---     ---     ---     Only one
+
+* Double Grass is blocked off until you get the Bicycle.
+(This area is blocked off until the Basic Badge is obtained.)
+(Rumination Field holding Virizion is blocked off until Cobalion is captured.)
+===============================================================================
+Skyarrow Bridge
+
+No Pokémon are found here.
+===============================================================================
+Castelia City
+
+Pokémon        Event
+¯¯¯¯¯¯¯        ¯¯¯¯¯
+Zorua          Have Celebi in party (see details in section 4b)
+===============================================================================
+Liberty Garden
+
+Pokémon        Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯
+Victini        Only one
+
+(This area is inaccessible without the Liberty Ticket, downloaded through a
+wi-fi event.)
+===============================================================================
+Route 4
+
+Pokémon        Sand    Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯    ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Sandile        40%     ---     ---     ---     ---     ---
+Darumaka       40%     ---     ---     ---     ---     ---
+Scraggy        20%     ---     ---     ---     ---     ---
+Frillish       ---     100%    ---     ---     ---     ---
+Alomomola      ---     ---     95%     ---     ---     ---
+Jellicent      ---     ---     5%      ---     ---     ---
+Krabby         ---     ---     ---     65%     ---     ---
+Clamperl       ---     ---     ---     30%     ---     ---
+Luvdisc        ---     ---     ---     5%      30%     ---
+Relicanth      ---     ---     ---     ---     60%     ---
+Kingler        ---     ---     ---     ---     5%      ---
+Huntail    (B) ---     ---     ---     ---     5%      ---
+Gorebyss   (W) ---     ---     ---     ---     5%      ---
+Hippopotas     ---     ---     ---     ---     ---     40%
+===============================================================================
+Desert Resort (Entrance)
+
+Pokémon        Sand
+¯¯¯¯¯¯¯        ¯¯¯¯
+Sandile        40%
+Darumaka       30%
+Maractus       10%
+Dwebble        10%
+Scraggy        10%
+
+(This area is blocked off until the Insect Badge is obtained.)
+-------------------------------------------------------------------------------
+Desert Resort (Desert)
+
+Pokémon        Sand    Interact
+¯¯¯¯¯¯¯        ¯¯¯¯    ¯¯¯¯¯¯¯¯
+Sandile        40%     ---
+Darumaka       30%     ---
+Maractus       10%     ---
+Dwebble        10%     ---
+Sigilyph       10%     ---
+Darmanitan     ---     Only five; requires RageCandyBar
+
+(Darmanitan have the Zen Mode ability, not normally available for the species.)
+===============================================================================
+Relic Castle (Floor 1, Basement 1)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Sandile        50%
+Yamask         50%
+
+(Cover or Plume Fossil given in Basement 1. Only choose one.)
+===============================================================================
+Nimbasa City
+
+No Pokémon are found here.
+===============================================================================
+Gear Station
+
+No Pokémon are found here.
+===============================================================================
+Anville Town
+
+No Pokémon are found here.
+===============================================================================
+Route 16
+
+Pokémon        Grass   Shake   Double* Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯
+Minccino       30%     ---     30%     ---
+Gothita    (B) 30%     ---     30%     ---
+Solosis    (W) 30%     ---     30%     ---
+Liepard        20%     ---     20%     ---
+Trubbish       20%     ---     20%     ---
+Audino         ---     85%     ---     ---
+Emolga         ---     10%     ---     ---
+Cinccino       ---     5%      ---     ---
+Pineco         ---     ---     ---     40%
+
+* Double grass is inaccessible without Strength. It has the same Pokémon as the
+normal grass, though.
+===============================================================================
+Lostlorn Forest
+
+Pokémon        Grass   Shake   Double* Surf    Whirl   Fish    Whirl   Event
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Swadloon       35%     ---     35%     ---     ---     ---     ---     ---
+Cottonee   (B) 35%     ---     35%     ---     ---     ---     ---     ---
+Petilil    (W) 35%     ---     35%     ---     ---     ---     ---     ---
+Tranquill      15%     ---     15%     ---     ---     ---     ---     ---
+Venipede       15%     ---     15%     ---     ---     ---     ---     ---
+Audino         ---     45%     ---     ---     ---     ---     ---     ---
+Pansage        ---     10%     ---     ---     ---     ---     ---     ---
+Pansear        ---     10%     ---     ---     ---     ---     ---     ---
+Panpour        ---     10%     ---     ---     ---     ---     ---     ---
+Emolga         ---     10%     ---     ---     ---     ---     ---     ---
+Unfezant       ---     5%      ---     ---     ---     ---     ---     ---
+Leavanny       ---     5%      ---     ---     ---     ---     ---     ---
+Whimsicott (B) ---     5%      ---     ---     ---     ---     ---     ---
+Lilligant  (W) ---     5%      ---     ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    30%     30%     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Zoroark        ---     ---     ---     ---     ---     ---     ---     One **
+
+* Double grass is inaccessible without Surf and Waterfall. It has the same
+Pokémon as the normal grass, though.
+** Have shiny Raikou, Entei, or Suicune in party (see details in section 4b)
+===============================================================================
+Route 5
+
+Pokémon        Grass   Double  Shake   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Minccino       30%     30%     ---     ---
+Gothita    (B) 30%     30%     ---     ---
+Solosis    (W) 30%     30%     ---     ---
+Liepard        20%     20%     ---     ---
+Trubbish       20%     20%     ---     ---
+Audino         ---     ---     85%     ---
+Emolga         ---     ---     10%     ---
+Cinccino       ---     ---     5%      ---
+Smeargle       ---     ---     ---     40%
+===============================================================================
+Driftveil Drawbridge
+
+Pokémon        Shadow
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Ducklett       100%
+
+(This area is blocked off until the Bolt Badge is obtained.)
+===============================================================================
+Driftveil City
+
+Pokémon        Surf   Whirl  Fish   Whirl   Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯
+Frillish       100%   ---    ---    ---     ---
+Alomomola      ---    95%    ---    ---     ---
+Jellicent      ---    5%     ---    ---     ---
+Krabby         ---    ---    65%    ---     ---
+Chinchou       ---    ---    30%    60%     ---
+Luvdisc        ---    ---    5%     30%     ---
+Kingler        ---    ---    ---    5%      ---
+Lanturn        ---    ---    ---    5%      ---
+Basculin       ---    ---    ---    ---     *
+
+* Trade with Youngster Kyle for Minccino (Basculin received is red in Black,
+and blue in White. White's has a special ability - Rock Head - not normally
+available for the species.)
+===============================================================================
+Cold Storage
+
+Pokémon        Grass   Double  Shake
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Herdier        35%     35%     ---
+Vanillite      30%     30%     ---
+Minccino       20%     20%     ---
+Timburr        15%     15%     ---
+Audino         ---     ---     90%
+Stoutland      ---     ---     5%
+Cinccino       ---     ---     5%
+===============================================================================
+Route 6
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Deerling       35%     35%     ---     ---     ---     ---     ---     ---
+Karrablast     25%     25%     ---     ---     ---     ---     ---     ---
+Tranquill   *  15%     15%     ---     ---     ---     ---     ---     ---
+Vanillite   ** 15%     15%     ---     ---     ---     ---     ---     ---
+Foongus        15%     15%     ---     ---     ---     ---     ---     ---
+Swadloon       10%     10%     ---     ---     ---     ---     ---     ---
+Audino         ---     ---     70%     ---     ---     ---     ---     ---
+Emolga         ---     ---     20%     ---     ---     ---     ---     ---
+Unfezant       ---     ---     5%      ---     ---     ---     ---     ---
+Leavanny       ---     ---     5%      ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    30%     30%     ---
+Poliwag        ---     ---     ---     ---     ---     65%     ---     ---
+Poliwhirl      ---     ---     ---     ---     ---     5%      65%     ---
+Politoed       ---     ---     ---     ---     ---     ---     5%      ---
+Plusle     (B) ---     ---     ---     ---     ---     ---     ---     40%
+Minun      (W) ---     ---     ---     ---     ---     ---     ---     40%
+
+* Spring, Summer, or Autumn (Tranquill appears).
+** Winter only (Vanillite appears).
+(2 Foongus also found disguised as item balls.)
+===============================================================================
+Chargestone Cave (Floor 1, Basement 1)
+
+Pokémon        Ground  Swirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Joltik         39%     ---
+Klink          29%     ---
+Ferroseed      20%     ---
+Boldore        10%     ---
+Tynamo         2%      ---
+Drilbur        ---     100%
+
+(This area is blocked off until the Quake Badge is obtained.)
+-------------------------------------------------------------------------------
+Chargestone Cave (Basement 2)
+
+Pokémon        Ground  Swirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Joltik         36%     ---
+Klink          26%     ---
+Ferroseed      20%     ---
+Boldore        10%     ---
+Tynamo         8%      ---
+Drilbur        ---     100%
+===============================================================================
+Mistralton City
+
+No Pokémon are found here.
+===============================================================================
+Route 7
+
+Pokémon        Grass   Double  Shake   Swarm   Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯   ¯¯¯¯
+Tranquill   *  30%     30%     ---     ---     ---
+Cubchoo     ** 30%     30%     ---     ---     ---
+Watchog        20%     20%     ---     ---     ---
+Zebstrika      20%     20%     ---     ---     ---
+Deerling       20%     20%     ---     ---     ---
+Foongus        10%     10%     ---     ---     ---
+Audino         ---     ---     85%     ---     ---
+Emolga      ** ---     ---     15%     ---     ***
+Emolga      *  ---     ---     10%     ---     ***
+Unfezant    *  ---     ---     5%      ---     ---
+Sentret        ---     ---     ---     40%     ---
+
+* Spring, Summer, or Autumn (Tranquill and Unfezant appear, Emolga is rarer).
+** Winter only (Cubchoo appears, Emolga is more common).
+*** Trade with Hiker Manny for Boldore.
+(After all 8 badges are collected, come here to find Tornadus (B) or
+Thundurus (W), which will then run away. From then on, it will roam between
+routes until caught, bringing severe weather along with it.)
+===============================================================================
+Celestial Tower (Floor 1)
+
+No Pokémon are found here.
+-------------------------------------------------------------------------------
+Celestial Tower (Floor 2)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Litwick        100%
+-------------------------------------------------------------------------------
+Celestial Tower (Floor 3)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Litwick        85%
+Elgyem         15%
+-------------------------------------------------------------------------------
+Celestial Tower (Floor 4)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Litwick        70%
+Elgyem         30%
+-------------------------------------------------------------------------------
+Celestial Tower (Floor 5)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Elgyem         50%
+Litwick        50%
+===============================================================================
+Route 17
+
+Pokémon        Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Frillish       100%    ---     ---     ---
+Alomomola      ---     95%     ---     ---
+Jellicent      ---     5%      ---     ---
+Finneon        ---     ---     65%     ---
+Horsea         ---     ---     35%     ---
+Seadra         ---     ---     ---     60%
+Qwilfish       ---     ---     ---     30%
+Lumineon       ---     ---     ---     5%
+Kingdra        ---     ---     ---     5%
+
+(This area is inaccessible without Surf.)
+===============================================================================
+Route 18
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Scraggy        40%     40%     ---     ---     ---     ---     ---     ---
+Dwebble        30%     ---     ---     ---     ---     ---     ---     ---
+Watchog        20%     20%     ---     ---     ---     ---     ---     ---
+Throh      (W) 10%     10%     ---     ---     ---     ---     ---     ---
+Sawk       (B) 10%     10%     ---     ---     ---     ---     ---     ---
+Crustle        ---     30%     ---     ---     ---     ---     ---     ---
+Audino         ---     ---     95%     ---     ---     ---     ---     ---
+Throh      (B) ---     ---     5%      ---     ---     ---     ---     ---
+Sawk       (W) ---     ---     5%      ---     ---     ---     ---     ---
+Frillish       ---     ---     ---     100%    ---     ---     ---     ---
+Alomomola      ---     ---     ---     ---     95%     ---     ---     ---
+Jellicent      ---     ---     ---     ---     5%      ---     ---     ---
+Finneon        ---     ---     ---     ---     ---     64%     ---     ---
+Horsea         ---     ---     ---     ---     ---     35%     ---     ---
+Chinchou       ---     ---     ---     ---     ---     1%      ---     ---
+Seadra         ---     ---     ---     ---     ---     ---     60%     ---
+Qwilfish       ---     ---     ---     ---     ---     ---     30%     ---
+Lumineon       ---     ---     ---     ---     ---     ---     5%      ---
+Kingdra        ---     ---     ---     ---     ---     ---     5%      ---
+Exeggcute      ---     ---     ---     ---     ---     ---     ---     40%
+Larvesta       Gift - Egg given by Ace Trainer
+===============================================================================
+P2 Laboratory
+
+Pokémon        Grass   Shake   Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Watchog        36%     ---     ---     ---     ---     ---
+Herdier        36%     ---     ---     ---     ---     ---
+Scraggy        14%     ---     ---     ---     ---     ---
+Klink          14%     ---     ---     ---     ---     ---
+Audino         ---     95%     ---     ---     ---     ---
+Stoutland      ---     5%      ---     ---     ---     ---
+Frillish       ---     ---     100%    ---     ---     ---
+Alomomola      ---     ---     ---     95%     ---     ---
+Jellicent      ---     ---     ---     5%      ---     ---
+Finneon        ---     ---     ---     ---     65%     ---
+Horsea         ---     ---     ---     ---     35%     ---
+Seadra         ---     ---     ---     ---     ---     60%
+Qwilfish       ---     ---     ---     ---     ---     30%
+Lumineon       ---     ---     ---     ---     ---     5%
+Kingdra        ---     ---     ---     ---     ---     5%
+===============================================================================
+Mistralton Cave (Floor 1, Floor 2, Guidance Chamber)
+
+Pokémon        Ground  Swirl   Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯
+Boldore        50%     ---     ---
+Woobat         30%     ---     ---
+Axew           20%     ---     ---
+Drilbur        ---     100%    ---
+Cobalion       ---     ---     Only one
+
+(Cobalion is found in Guidance Chamber, which is the third floor.)
+===============================================================================
+Twist Mountain (Inside, all floors)
+
+Pokémon        Ground  Swirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Boldore     *  49%     ---
+Cubchoo     ** 45%     ---
+Boldore     ** 30%     ---
+Gurdurr     *  30%     ---
+Woobat         10%     ---
+Gurdurr     ** 10%
+Cubchoo     *  10%     ---
+Cryogonal   ** 5%      ---
+Cryogonal   *  1%      ---
+Drilbur        ---     100%
+
+* Spring, Summer, or Autumn (Boldore and Gurdurr are more common, Cubchoo and
+Cryogonal are rarer).
+** Winter only (Cubchoo and Cryogonal are more common, Boldore and Gurdurr are
+rarer).
+(This area is blocked off until the Jet Badge is obtained.)
+(Helix, Dome, Root, Claw, Skull, or Armor Fossil or Old Amber randomly given
+daily in Basement after National Dex is obtained.)
+===============================================================================
+Icirrus City, Route 8, Moor of Icirrus
+
+Pokémon        Puddle* Surf    Whirl   Fish    Whirl   Swarm**
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯
+Palpitoad      40%     ---     ---     ---     ---     ---
+Shelmet        40%     ---     ---     ---     ---     ---
+Stunfisk       20%     100%    95%     30%     30%     ---
+Seismitoad     ---     ---     5%      ---     ---     ---
+Barboach       ---     ---     ---     70%     60%     ---
+Whiscash       ---     ---     ---     ---     10%     ---
+Croagunk       ---     ---     ---     ---     ---     40%
+
+* Puddles freeze over in Winter and contain no Pokémon.
+** The Croagunk swarm only happens on Route 8, but otherwise, the Pokémon in
+these three areas are identical. The swarm will not happen in Winter, because
+the puddles will be frozen over then.
+===============================================================================
+Dragonspiral Tower (Entrance)
+
+Pokémon        Grass   Double**Shake
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tranquill   *  30%     ---     ---
+Vanillite   ** 30%     ---     ---
+Deerling       30%     ---     ---
+Mienfoo        30%     30%     ---
+Cubchoo     ** 10%     ---     ---
+Druddigon   *  10%     ---     ---
+Vanillish   ** ---     30%     ---
+Sawsbuck    ** ---     30%     ---
+Beartic     ** ---     10%     ---
+Audino      *  ---     ---     85%
+Audino      ** ---     ---     90%
+Emolga         ---     ---     10%
+Unfezant    *  ---     ---     5%
+
+* Spring, Summer, or Autumn (Tranquill, Druddigon, and Unfezant appear, Audino
+is rarer).
+** Winter only (Vanillite and Cubchoo appear, Audino is more common. Double
+grass is accessible only in Winter.)
+-------------------------------------------------------------------------------
+Dragonspiral Tower (Outside)
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tranquill   *  30%     30%     ---     ---     ---     ---     ---
+Vanillite   ** 30%     ---     ---     ---     ---     ---     ---
+Deerling       30%     ---     ---     ---     ---     ---     ---
+Mienfoo        30%     30%     ---     ---     ---     ---     ---
+Cubchoo     ** 10%     ---     ---     ---     ---     ---     ---
+Druddigon   *  10%     10%     ---     ---     ---     ---     ---
+Vanillish   ** ---     30%     ---     ---     ---     ---     ---
+Sawsbuck       ---     30%     ---     ---     ---     ---     ---
+Beartic     ** ---     10%     ---     ---     ---     ---     ---
+Audino      *  ---     ---     85%     ---     ---     ---     ---
+Audino      ** ---     ---     90%     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---
+Unfezant    *  ---     ---     5%      ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    100%    30%     30%
+Dratini        ---     ---     ---     ---     ---     65%     60%
+Dragonair      ---     ---     ---     ---     ---     5%      9%
+Dragonite      ---     ---     ---     ---     ---     ---     1%
+
+* Spring, Summer, or Autumn (Tranquill, Druddigon, and Unfenzant appear).
+** Winter only (Vanillite and Cubchoo appear, Audino is more common).
+-------------------------------------------------------------------------------
+Dragonspiral Tower (Inside, Floor 1)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Golett         50%
+Druddigon      30%
+Mienfoo        20%
+
+(This area is blocked off until the Freeze Badge is obtained.)
+-------------------------------------------------------------------------------
+Dragonspiral Tower (Inside, Floor 2)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Golett         100%
+-------------------------------------------------------------------------------
+Dragonspiral Tower (Inside, Floors 3-6)
+
+No Pokémon are found here.
+-------------------------------------------------------------------------------
+Dragonspiral Tower (Top, Floor 7)
+
+Pokémon        Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯
+Reshiram   (B) Only one
+Zekrom     (W) Only one
+
+(Reshiram or Zekrom will only appear here if you didn't catch it at the first
+opportunity. And the only way that the game will allow you to not catch it then
+is if you have a completely full PC at the time.)
+===============================================================================
+Relic Castle (Basement 2, 3, 4, and 5)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Krokorok       50%
+Cofagrigus     50%
+
+(This area is inaccessible until the events at Dragonspiral Tower are complete)
+===============================================================================
+Tubeline Bridge
+
+No Pokémon are found here.
+
+(This area is blocked off until the events at Relic Castle are complete.)
+===============================================================================
+Route 9
+
+Pokémon        Grass   Double  Shake   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Gothorita  (B) 30%     30%     ---     ---
+Duosion    (W) 30%     30%     ---     ---
+Minccino       20%     20%     ---     ---
+Garbodor       20%     20%     ---     ---
+Pawniard       20%     20%     ---     ---
+Liepard        10%     10%     ---     ---
+Audino         ---     ---     80%     ---
+Emolga         ---     ---     10%     ---
+Cinccino       ---     ---     5%      ---
+Gothitelle (B) ---     ---     5%      ---
+Reuniclus  (W) ---     ---     5%      ---
+Houndour   (B) ---     ---     ---     40%
+Poochyena  (W) ---     ---     ---     40%
+
+(Appliances to change Rotom's form are found in boxes in Dept. Store)
+===============================================================================
+Opelucid City
+
+No Pokémon are found here.
+===============================================================================
+Route 10
+
+Pokémon        Grass   Double  Shake   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Herdier        30%     30%     ---     ---
+Rufflet    (W) 30%     30%     ---     ---
+Vullaby    (B) 30%     30%     ---     ---
+Bouffalant     20%     20%     ---     ---
+Foogus         10%     ---     ---     ---
+Throh      (W) 10%     10%     ---     ---
+Sawk       (B) 10%     10%     ---     ---
+Amoongus       ---     10%     ---     ---
+Audino         ---     ---     80%     ---
+Emolga         ---     ---     10%     ---
+Stoutland      ---     ---     5%      ---
+Throh      (B) ---     ---     5%      ---
+Sawk       (W) ---     ---     5%      ---
+Tyrogue        ---     ---     ---     40%
+
+(2 Foongus and 2 Amoongus also found disguised as item balls.)
+===============================================================================
+Victory Road (Outside)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Heatmor        45%
+Rufflet    (W) 30%
+Vullaby    (B) 30%
+Mienfoo        10%
+Fraxure        10%
+
+(This area is blocked off until the Legend Badge is obtained.)
+-------------------------------------------------------------------------------
+Victory Road (Inside, Floors 1 and 3)
+
+Pokémon        Ground  Swirl   Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Durant         40%     ---     ---     ---     ---     ---
+Boldore        20%     ---     ---     ---     ---     ---
+Deino          20%     ---     ---     ---     ---     ---
+Woobat         10%     ---     ---     ---     ---     ---
+Mienfoo        10%     ---     ---     ---     ---     ---
+Excadrill      ---     100%    ---     ---     ---     ---
+Basculin       ---     ---     100%    100%    30%     30%
+Poliwag        ---     ---     ---     ---     65%     ---
+Poliwhirl      ---     ---     ---     ---     5%      65%
+Poliwrath      ---     ---     ---     ---     ---     5%
+-------------------------------------------------------------------------------
+Victory Road (Inside, Floors 2, 4, 5, 6, 7, and Trial Chamber)
+
+Pokémon        Ground  Swirl   Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯
+Durant         40%     ---     ---
+Boldore        30%     ---     ---
+Woobat         20%     ---     ---
+Mienfoo        10%     ---     ---
+Excadrill      ---     100%    ---
+Terrakion      ---     ---     Only one
+
+(Trial Chamber holding Terrakion is blocked off until Cobalion is captured.)
+===============================================================================
+Pokémon League
+
+No Pokémon are found here.
+===============================================================================
+N's Castle
+
+Pokémon        Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯
+Reshiram   (B) Only one
+Zekrom     (W) Only one
+===============================================================================
+Marvelous Bridge
+
+Pokémon        Shadow  Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯  ¯¯¯¯
+Swanna         100%    ---
+Magikarp       ---     Buy from salesman
+
+(This area, and all following areas, are blocked off until the National Dex is
+obtained after completing the main storyline. I recommend coming this way first
+for reasons described below.)
+===============================================================================
+Route 15
+
+Pokémon        Grass   Double  Shake   Swarm   Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯   ¯¯¯¯
+Fearow         30%     30%     ---     ---     ---
+Marowak        20%     20%     ---     ---     ---
+Gligar         15%     10%     ---     ---     ---
+Throh      (W) 15%     15%     ---     ---     ---
+Sawk       (B) 15%     15%     ---     ---     ---
+Kangaskhan     10%     10%     ---     ---     ---
+Pupitar        10%     10%     ---     ---     ---
+Watchog        ---     5%      ---     ---     ---
+Audino         ---     ---     75%     ---     ---
+Emolga         ---     ---     10%     ---     ---
+Tyranitar      ---     ---     5%      ---     ---
+Gliscor        ---     ---     5%      ---     ---
+Throh      (B) ---     ---     5%      ---     ---
+Sawk       (W) ---     ---     5%      ---     ---
+Mankey         ---     ---     ---     40%     ---
+Rotom          ---     ---     ---     ---     *
+
+* Trade with Scientist Lillian for Ditto
+===============================================================================
+Black City (Black only)
+
+No Pokémon are found here. May be used to change encounters in White Forest.
+-------------------------------------------------------------------------------
+White Forest (White only)
+
+33 different Pokémon can be found here (29 in grass, 3 in water, 1 in both),
+but they are randomly determined for each game. Obtainable Pokémon are
+influenced by using Entralink to connect to another player's Black City.
+Details are confusing, but explained as well as I can manage in the FAQ at the
+end of the guide.
+
+I've listed these areas immediately after N's Castle in the guide because it's
+a good idea to check them out as soon as possible. The trainers will leave the
+city / forest if not talked to for a certain number of days, and the countdown
+begins as soon as the game is started, long before you have access to them.
+The guide will now begin going through the remaining areas in a clockwise
+fashion, continuing the way you progressed through the game previously.
+===============================================================================
+Dreamyard (Basement)
+
+Pokémon        Double  Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯
+Raticate       35%     ---
+Kricketune     35%     ---
+Munna          20%     ---
+Ledian         5%      ---
+Ariados        5%      ---
+Musharna       ---     Appears once per week on Fridays
+
+(Musharna has the Telepathy ability, not normally available for the species.)
+===============================================================================
+Royal Unova
+
+No Pokémon are found here.
+===============================================================================
+Relic Castle (Basement 6, Maze)
+
+Pokémon        Ground
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯
+Krokorok       35%
+Sandslash      30%
+Cofagrigus     20%
+Onix           15%
+-------------------------------------------------------------------------------
+Relic Castle (Maze End)
+
+Pokémon        Ground  Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯
+Claydol        100%    ---
+Volcarona      ---     Only one
+===============================================================================
+Challenger's Cave (Floor 1)
+
+Pokémon        Ground  Swirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Graveler       20%     ---
+Lickitung      20%     ---
+Boldore        20%     ---
+Woobat         20%     ---
+Sableye        10%     ---
+Mawile         10%     ---
+Excadrill      ---     100%
+-------------------------------------------------------------------------------
+Challenger's Cave (Basement 1, Basement 2)
+
+Pokémon        Ground  Swirl   Surf*   Whirl*  Fish*   Whirl*
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Graveler       20%     ---     ---     ---     ---     ---
+Boldore        20%     ---     ---     ---     ---     ---
+Woobat         20%     ---     ---     ---     ---     ---
+Lickitung      15%     ---     ---     ---     ---     ---
+Sableye        10%     ---     ---     ---     ---     ---
+Mawile         10%     ---     ---     ---     ---     ---
+Riolu          5%      ---     ---     ---     ---     ---
+Excadrill      ---     100%    ---     ---     ---     ---
+Basculin    *  ---     ---     100%    100%    30%     30%
+Poliwag     *  ---     ---     ---     ---     65%     ---
+Poliwhirl   *  ---     ---     ---     ---     5%      65%
+Poliwrath   *  ---     ---     ---     ---     ---     5%
+
+* Water only found in Basement 2. Ground Pokémon are identical.
+===============================================================================
+Route 11
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Rufflet    (W) 25%     ---     ---     ---     ---     ---     ---     ---
+Vullaby    (B) 25%     ---     ---     ---     ---     ---     ---     ---
+Golduck        20%     20%     ---     ---     ---     ---     ---     ---
+Gligar         15%     15%     ---     ---     ---     ---     ---     ---
+Zangoose       10%     10%     ---     ---     ---     ---     ---     ---
+Seviper        10%     10%     ---     ---     ---     ---     ---     ---
+Amoonguss      10%     10%     ---     ---     ---     ---     ---     ---
+Karrablast     5%      5%      ---     ---     ---     ---     ---     ---
+Pawniard       5%      ---     ---     ---     ---     ---     ---     ---
+Braviary   (W) ---     25%     ---     ---     ---     ---     ---     ---
+Mandibuzz  (B) ---     25%     ---     ---     ---     ---     ---     ---
+Bisharp        ---     5%      ---     ---     ---     ---     ---     ---
+Audino         ---     ---     85%     ---     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---     ---
+Gliscor        ---     ---     5%      ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     70%     30%     30%     30%     ---
+Buizel         ---     ---     ---     30%     60%     ---     ---     ---
+Floatzel       ---     ---     ---     ---     10%     ---     ---     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Paras      (W) ---     ---     ---     ---     ---     ---     ---     40%
+Shroomish  (B) ---     ---     ---     ---     ---     ---     ---     40%
+===============================================================================
+Village Bridge
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Golduck        25%     25%     ---     ---     ---     ---     ---
+Bibarel        25%     25%     ---     ---     ---     ---     ---
+Rufflet    (W) 20%     ---     ---     ---     ---     ---     ---
+Vullaby    (B) 20%     ---     ---     ---     ---     ---     ---
+Zangoose       15%     15%     ---     ---     ---     ---     ---
+Seviper        15%     15%     ---     ---     ---     ---     ---
+Braviary   (W) ---     20%     ---     ---     ---     ---     ---
+Mandibuzz  (B) ---     20%     ---     ---     ---     ---     ---
+Audino         ---     ---     90%     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---
+Basculin       ---     ---     ---     100%    95%     30%     30%
+Lapras         ---     ---     ---     ---     5%      ---     ---
+Carvanha       ---     ---     ---     ---     ---     70%     60%
+Sharpedo       ---     ---     ---     ---     ---     ---     10%
+===============================================================================
+Route 12
+
+Pokémon        Grass   Double  Shake   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Sunkern        20%     20%     ---     ---
+Combee         20%     20%     ---     ---
+Tranquill      15%     15%     ---     ---
+Metapod    (W) 10%     10%     ---     ---
+Kakuna     (B) 10%     10%     ---     ---
+Rapidash       10%     10%     ---     ---
+Cherrim        10%     10%     ---     ---
+Pinsir         5%      5%      ---     ---
+Dunsparce      5%      5%      ---     ---
+Heracross      5%      5%      ---     ---
+Audino         ---     ---     70%     ---
+Emolga         ---     ---     10%     ---
+Butterfree (W) ---     ---     5%      ---
+Beedrill   (B) ---     ---     5%     ---
+Sunflora       ---     ---     5%      ---
+Vespiquen      ---     ---     5%      ---
+Unfezant       ---     ---     5%      ---
+Doduo          ---     ---     ---     40%
+===============================================================================
+Lacunosa Town
+
+No Pokémon are found here.
+===============================================================================
+Route 13
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Tangela        25%     25%     ---     ---     ---     ---     ---     ---
+Swellow        20%     20%     ---     ---     ---     ---     ---     ---
+Golbat         15%     15%     ---     ---     ---     ---     ---     ---
+Lunatone       10%     10%     ---     ---     ---     ---     ---     ---
+Solrock        10%     10%     ---     ---     ---     ---     ---     ---
+Absol          10%     10%     ---     ---     ---     ---     ---     ---
+Drifblim       10%     10%     ---     ---     ---     ---     ---     ---
+Audino         ---     ---     80%     ---     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---     ---
+Crobat         ---     ---     5%      ---     ---     ---     ---     ---
+Tangrowth      ---     ---     5%      ---     ---     ---     ---     ---
+Wingull        ---     ---     ---     60%     ---     ---     ---     ---
+Staryu         ---     ---     ---     30%     60%     ---     ---     ---
+Pelipper       ---     ---     ---     10%     ---     ---     ---     ---
+Corsola        ---     ---     ---     ---     30%     ---     ---     ---
+Starmie        ---     ---     ---     ---     10%     ---     ---     ---
+Krabby         ---     ---     ---     ---     ---     65%     ---     ---
+Shellder       ---     ---     ---     ---     ---     30%     60%     ---
+Luvdisc        ---     ---     ---     ---     ---     5%      30%     ---
+Kingler        ---     ---     ---     ---     ---     ---     5%      ---
+Cloyster       ---     ---     ---     ---     ---     ---     5%      ---
+Shuppet        ---     ---     ---     ---     ---     ---     ---     40%
+===============================================================================
+Giant Chasm (Outside)
+
+Pokémon        Grass   Double  Shake
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tangela        25%     25%     ---
+Swellow        20%     20%     ---
+Golbat         15%     15%     ---
+Lunatone       10%     10%     ---
+Solrock        10%     10%     ---
+Absol          10%     10%     ---
+Drifblim       10%     10%     ---
+Audino         ---     ---     90%
+Crobat         ---     ---     5%
+Tangrowth      ---     ---     5%
+-------------------------------------------------------------------------------
+Giant Chasm (Plains)
+
+Pokémon        Grass   Double  Shake
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Clefairy       30%     30%     ---
+Piloswine      25%     25%     ---
+Ditto          15%     15%     ---
+Lunatone       10%     10%     ---
+Solrock        10%     10%     ---
+Metang         10%     10%     ---
+Audino         ---     ---     85%
+Mamoswine      ---     ---     5%
+Clefable       ---     ---     5%
+Metagross      ---     ---     5%
+-------------------------------------------------------------------------------
+Giant Chasm (Cave, Inner Cave)
+
+Pokémon        Ground  Swirl   Surf    Whirl   Fish    Whirl   Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯
+Piloswine      25%     ---     ---     ---     ---     ---     ---
+Golbat         20%     ---     ---     ---     ---     ---     ---
+Jynx           10%     ---     ---     ---     ---     ---     ---
+Sneasel        10%     ---     ---     ---     ---     ---     ---
+Delibird       10%     ---     ---     ---     ---     ---     ---
+Lunatone       10%     ---     ---     ---     ---     ---     ---
+Solrock        10%     ---     ---     ---     ---     ---     ---
+Boldore        5%      ---     ---     ---     ---     ---     ---
+Excadrill      ---     100%    ---     ---     ---     ---     ---
+Basculin       ---     ---     70%     30%     30%     30%     ---
+Seel           ---     ---     30%     60%     ---     ---     ---
+Dewgong        ---     ---     ---     10%     ---     ---     ---
+Poliwag        ---     ---     ---     ---     65%     ---     ---
+Poliwhirl      ---     ---     ---     ---     5%      65%     ---
+Poliwrath      ---     ---     ---     ---     ---     5%      ---
+Kyurem         ---     ---     ---     ---     ---     ---     Only one
+
+(Both caves contain the same Pokémon except Kyurem, found in the Inner Cave.)
+===============================================================================
+Undella Town
+
+Pokémon        Surf    Whirl   Fish    Whirl   Gift
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯
+Wingull        60%     ---     ---     ---     ---
+Mantyke        30%     ---     ---     ---     ---
+Pelipper       10%     ---     ---     ---     ---
+Wailmer        ---     60%     ---     ---     ---
+Corsola        ---     30%     ---     ---     ---
+Mantine        ---     10%     ---     ---     ---
+Remoraid       ---     ---     65%     ---     ---
+Shellder       ---     ---     30%     60%     ---
+Luvdisc        ---     ---     5%      30%     ---
+Octillery      ---     ---     ---     5%      ---
+Cloyster       ---     ---     ---     5%      ---
+Munchlax       ---     ---     ---     ---     *
+
+* Trade with Ander for Cinccino (in Summer only).
+===============================================================================
+Undella Bay
+
+Pokémon        Surf    Whirl   Fish    Whirl
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Wingull        60%     ---     ---     ---
+Mantyke     *  30%     ---     ---     ---
+Spheal      ** 30%     ---     ---     ---
+Pelipper       10%     ---     ---     ---
+Wailmer     *  ---     90%     ---     ---
+Wailmer     ** ---     60%     ---     ---
+Sealeo      ** ---     30%     ---     ---
+Mantine     *  ---     5%      ---     ---
+Wailord        ---     5%      ---     ---
+Walrein     ** ---     5%      ---     ---
+Remoraid       ---     ---     65%     ---
+Shellder       ---     ---     30%     60%
+Luvdisc        ---     ---     5%      30%
+Octillery      ---     ---     ---     5%
+Cloyster       ---     ---     ---     5%
+
+* Spring, Summer, or Autumn (Mantyke and Mantine appear, Wailmer is more
+common).
+** Winter only (Spheal, Sealeo, and Walrein appear, Wailmer is rarer).
+===============================================================================
+Abyssal Ruins
+
+No Pokémon are found here.
+===============================================================================
+Route 14
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Swarm
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯
+Jigglypuff     20%     20%     ---     ---     ---     ---     ---     ---
+Golduck        20%     20%     ---     ---     ---     ---     ---     ---
+Tropius        15%     15%     ---     ---     ---     ---     ---     ---
+Altaria        10%     10%     ---     ---     ---     ---     ---     ---
+Drifblim       10%     10%     ---     ---     ---     ---     ---     ---
+Beeheeyem      10%     10%     ---     ---     ---     ---     ---     ---
+Mienfoo        10%     ---     ---     ---     ---     ---     ---     ---
+Shuckle        5%      5%      ---     ---     ---     ---     ---     ---
+Meinshao       ---     10%     ---     ---     ---     ---     ---     ---
+Audino         ---     ---     85%     ---     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---     ---
+Wigglytuff     ---     ---     5%      ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     70%     30%     30%     30%     ---
+Buizel         ---     ---     ---     30%     60%     ---     ---     ---
+Floatzel       ---     ---     ---     ---     10%     ---     ---     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Yanma          ---     ---     ---     ---     ---     ---     ---     40%
+===============================================================================
+Abundant Shrine
+
+Pokémon        Grass   Double  Shake   Surf    Whirl   Fish    Whirl   Interact
+¯¯¯¯¯¯¯        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯
+Chimecho       30%     30%     ---     ---     ---     ---     ---     ---
+Vulpix         20%     20%     ---     ---     ---     ---     ---     ---
+Noctowl        15%     15%     ---     ---     ---     ---     ---     ---
+Stantler       10%     10%     ---     ---     ---     ---     ---     ---
+Bronzong       10%     10%     ---     ---     ---     ---     ---     ---
+Cottonee   (B) 10%     10%     ---     ---     ---     ---     ---     ---
+Petilil    (W) 10%     10%     ---     ---     ---     ---     ---     ---
+Murkrow    (B) 5%      5%      ---     ---     ---     ---     ---     ---
+Misdreavus (W) 5%      5%      ---     ---     ---     ---     ---     ---
+Audino         ---     ---     75%     ---     ---     ---     ---     ---
+Emolga         ---     ---     10%     ---     ---     ---     ---     ---
+Ninetales      ---     ---     5%      ---     ---     ---     ---     ---
+Mismagius  (W) ---     ---     5%      ---     ---     ---     ---     ---
+Honchkrow  (B) ---     ---     5%      ---     ---     ---     ---     ---
+Whimsicott (B) ---     ---     5%      ---     ---     ---     ---     ---
+Lilligant  (W) ---     ---     5%      ---     ---     ---     ---     ---
+Basculin       ---     ---     ---     70%     30%     30%     30%     ---
+Slowpoke       ---     ---     ---     30%     60%     ---     ---     ---
+Slowbro        ---     ---     ---     ---     5%      ---     ---     ---
+Slowking       ---     ---     ---     ---     5%      ---     ---     ---
+Goldeen        ---     ---     ---     ---     ---     70%     60%     ---
+Seaking        ---     ---     ---     ---     ---     ---     10%     ---
+Landorus       ---     ---     ---     ---     ---     ---     ---     *
+
+* Landorus will only appear if both Tornadus and Thundurus are in the party.
+===============================================================================
+Dream World: Pleasant Forest
+
+Default - Rattata, Nidoran F, Nidoran M, Oddish, Bellsprout, Ponyta,
+          Farfetch'd, Doduo, Exeggcute, Lickitung, Tangela, Kangakhan, Sentret,
+          Igglybuff, Mareep, Hoppip, Sunkern, Stantler, Poochyena, Lotad,
+          Taillow, Surskit, Bidoof, Shinx
+
+7500+ points - Psyduck, Growlithe, Scyther, Tauros, Marill, Sudowoodo,
+               Girafarig, Miltank, Zigzagoon, Electrike, Castform, Pachirisu,
+               Buneary, Glameow
+
+10000+ points - Vulpix, Poliwag, Natu, Elekid, Skitty
+===============================================================================
+Dream World: Spooky Manor
+
+Default - Gastly, Drowzee, Mr. Mime, Spinarak, Misdreavus, Wobbuffet, Houndour,
+          Smoochum, Mawile, Meditite, Spoink, Shuppet, Duskull, Chimecho,
+          Stunky, Bronzor
+
+7500+ points - Meowth, Snubbull, Smeargle, Volbeat, Illumise, Rotom
+
+10000+ points - Abra, Ralts, Sableye, Spiritomb
+===============================================================================
+Dream World: Rugged Mountain
+
+Default - Mankey, Machop, Magnemite, Koffing, Rhyhorn, Slugma, Phanpy,
+          Larvitar, Torkoal, Trapinch, Cacnea, Burmy (Sandy Cloak), Hippopotas,
+          Skorupi
+
+7500+ points - Teddiursa, Magby, Makuhita, Numel, Spinda, Absol, Beldum,
+               Croagunk
+
+10000+ points - Tyrogue, Bagon
+===============================================================================
+Dream World: Icy Cave
+
+Default - Sandshrew, Geodude, Onix, Voltorb, Cubone, Cleffa, Shuckle, Swinub,
+          Whismur, Nosepass, Aron, Lunatone, Solrock, Baltoy, Spheal, Shieldon,
+          Snover
+
+7500+ points - Diglett, Dunsparce, Sneasel, Snorunt, Cranidos
+
+10000+ points - Gible
+===============================================================================
+Dream World: Dream Park
+
+Default - Beedrill, Paras, Venonat, Grimer, Pineco, Wurmple, Seedot, Slakoth,
+          Nincada, Plusle, Minun, Gulpin, Kecleon, Kricketot, Combee, Cherubi,
+          carnivine
+
+7500+ points - Ekans, Togepi, Aipom, Shroomish, Roselia, Zangoose, Seviper
+
+10000+ points - Chansey, Pinsir, Eevee, Snorlax, Heracross
+===============================================================================
+Dream World: Windswept Sky (Unlocked at 2500 points, requires 4 badges)
+
+Default - Butterfree, Pidgey, Spearow, Zubat, Aerodactyl, Hoothoot, Ledyba,
+          Hoppip, Yanma, Murkrow, Gligar, Delibird, Taillow, Wingull, Swablu,
+          Staravia
+
+7500+ points - Skarmory, Tropius, Drifloon, Chatot
+===============================================================================
+Dream World: Sparkling Sea (Unlocked at 5000 points, requires 8 badges)
+
+Default - Slowpoke, Seel, Shellder, Krabby, Horsea, Goldeen, Seaking, Staryu,
+          Magikarp, Omanyte, Kabuto, Chinchou, Wooper, Qwilfish, Corsola,
+          Remoraid, Mantine, Wailmer, Barboach, Clamperl, Relicanth, Luvdisc,
+          Buizel, Finneon
+
+7500+ points - Tentacool, Carvanha, Corphish, Lileep, Anorith, Feebas, 
+               Shellos (West), Shellos (East)
+
+10000+ points - Lapras, Dratini
+===============================================================================
